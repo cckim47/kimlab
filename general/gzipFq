@@ -1,1 +1,0 @@
-for i in `find | grep -E "\.fq$"`; do pigz -v --best "$i"; done

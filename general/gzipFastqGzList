@@ -1,1 +1,0 @@
-for i in `find | grep -E "\.fastq\.gz$"`; do ls "$i"; done
