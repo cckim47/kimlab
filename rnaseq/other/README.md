@@ -1,10 +1,10 @@
 ## Synopsis
 
-Miscellaneous scripts for RNA-Seq analysis, to be used in conjunction with others.
+Miscellaneous scripts for RNA-Seq analysis, to be used in conjunction with others. Most convert gene or transcript expression estimates between formats compatible with different tools.
 
 ## Instructions
 
-Varies with the script. Please see the code headers adn comments, or contact the authors for details.
+Varies with the script. Please see the code headers and comments, or contact the authors for details.
 
 ## Contributors
 

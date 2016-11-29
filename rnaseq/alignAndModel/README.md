@@ -2,7 +2,7 @@
 
 Wrapper scripts for running different RNA-Seq read alignment and expression estimation tools.
 
-There are 3 general wrapper types: read aligers only (align_@@.pl), expression modelers only (model_@@.pl), and wrappers that both align and model expression (alignAndModel_@@.pl).
+There are 3 general wrapper types: read aligners only (align_@@.pl), expression modelers only (model_@@.pl), and wrappers that both align and model expression (alignAndModel_@@.pl).
 
 ## Code Example
 
@@ -18,7 +18,7 @@ Within the parent directory in which the wrappers are executed, the wrapper will
 
 ## Other parameters
 
-A number of parameters are hard-coded into the header of each wrapper, and should be modified to suit your environment. These include paths to relevant indices, genome files, and annotation (gtf) files; output directory names; input directory names; and CPU threads, in some cases.
+A number of parameters are hard-coded into the header of each wrapper, and should be modified to suit your environment. These include paths to relevant indices, genome files, and annotation (gtf) files; output directory names; input directory names; CPU threads; and sample-specific metrics such as average read length, in some cases.
 
 ## Contributors
 
